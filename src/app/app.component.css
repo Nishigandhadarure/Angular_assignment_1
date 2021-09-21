@@ -1,0 +1,24 @@
+.noteInputContainer{
+    width:50vw;
+    margin: auto;
+    margin: 40px;
+
+}
+.onteInput{
+
+    display: flex;
+    flex-direction: column;
+}
+.noteSubmit{
+    display: flex;
+    justify-content:flex-end ;
+
+}
+.noteCard{
+    width:20vw;
+    margin:10px;
+    border:1px solid blue;
+    
+    display: flex;
+    flex-direction: column;
+}
