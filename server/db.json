@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "id": 1,
+      "title": "Read Angular 5 blog",
+      "text": "Shall do at 6 pm"
+    },
+    {
+      "title": "Training",
+      "text": "java training at 9 am",
+      "id": 2
+    },
+    {
+      "title": "new ",
+      "text": "first new project",
+      "id": 3
+    }
+  ]
+}
